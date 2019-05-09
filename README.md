@@ -17,5 +17,6 @@ I figured this was a good way to begin the proccess of retreving data types from
 - Only execute when the website is updated 
 ### Links 
 
-[@CpsOutageMap](https://twitter.com/CpsOutageMap)
+[@CpsOutageMap](https://twitter.com/CpsOutageMap) 
+
 [CPS Outage Website](http://outagemap.cpsenergy.com/CPSStaticMapsEXT/CPSStaticMapV2_EXT.html)

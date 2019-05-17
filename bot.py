@@ -54,7 +54,7 @@ def post_cropped_img():
     api.update_with_media(cropped_image_path + filename)
 
 def clear_imgs():
-    for file in os.listdir('/Users/josephmartinez/PycharmProjects/CPS'):
+    for file in os.listdir(''):
         if file.endswith('.png'):
             os.remove(file)
     print('removed images from dir')
